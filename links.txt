@@ -1,1 +1,3 @@
 https://medium.com/dkatalis/training-a-custom-object-detector-in-half-a-day-with-yolov8-5e1475fe201e
+
+https://medium.com/@tejasdalvi927/object-detection-with-yolo-and-opencv-a-practical-guide-cf7773481d11
